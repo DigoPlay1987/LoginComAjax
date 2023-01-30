@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://ithub.com.br">
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=digoplay&show_icons=true&theme=gruvbox">
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digoplay&layout=compact&theme=gruvbox">
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=DigoPlay1987&show_icons=true&theme=gruvbox">
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigoPlay1987&layout=compact&theme=gruvbox">
   </a>
 </div>
 
